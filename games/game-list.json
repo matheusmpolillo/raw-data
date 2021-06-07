@@ -1,10 +1,35 @@
 {
+    "Super Nintendo Entertainment System (SNES)": [
+        "Super Mario World",
+        "Donkey Kong Country",
+        "Super Mario World 2: Yoshi's Island",
+        "Super Bomberman",
+        "Top Gear"
+    ],
     "Game Boy Advance": [
         "Advance Wars",
         "Pokémon Fire Red",
         "Pokémon Leaf Green",
         "Pokémon Ruby",
         "Pokémon Sapphire"
+    ],
+    "Nintendo DS": [
+        "Inazuma Eleven",
+        "Inazuma Eleven 2: Kyoui no Shinryakusha (Firestorm)",
+        "Inazuma Eleven 2: Kyoui no Shinryakusha (Blizzard)",
+        "Inazuma Eleven 3: Sekai e no Chousen!! (Spark)",
+        "Inazuma Eleven 3: Sekai e no Chousen!! (Bomber)",
+        "Inazuma Eleven 3: Sekai e no Chousen!! (The Ogre)",
+        "The Legend of Zelda: Phantom Hourglass",
+        "The Legend of Zelda: Spirit Tracks",
+        "Pokémon Pearl",
+        "Tetris DS"
+    ],
+    "Nintendo 64": [
+        "Super Mario 64",
+        "Resident Evil 2",
+        "Super Smash Bros.",
+        "Doom 64"
     ],
     "Playstation 1": [
         "Yu-Gi-Oh! Forbidden Memories",
@@ -45,6 +70,17 @@
         "Mortal Kombat: Armageddon",
         "Black",
         "Call of Duty 3"
+    ],
+    "Playstation 3": [
+        "God of War III",
+        "God of War: Ascension",
+        "Call of Duty: Modern Warfare 3",
+        "Rayman Origins",
+        "Killzone 3",
+        "Diablo III",
+        "Uncharted: Drake's Fortune",
+        "Uncharted 2: Among Thieves",
+        "Uncharted 3: Drake's Deception"
     ],
     "Playstation 4": [
         "Bloodborne",
@@ -93,7 +129,9 @@
         "The Last of Us Part II",
         "Horizon Chase Turbo",
         "A Way Out",
-        "Dungeon Defenders II"
+        "Dungeon Defenders II",
+        "Beat Saber",
+        "Mirror’s Edge Catalyst"
     ],
     "PC": [
         "Harry Potter and The Chamber of Secrets",
