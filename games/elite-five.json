@@ -1,0 +1,24 @@
+{
+    "elite_five": {
+        "1": {
+            "game": "Harry Potter and The Chamber of Secrets",
+            "platform": "PC"
+        },
+        "2": {
+            "game": "The Last of Us Part II",
+            "platform": "Playstation 4"
+        },
+        "3": {
+            "game": "Undertale",
+            "platform": "PC"
+        },
+        "4": {
+            "game": "Inazuma Eleven 3: The Ogre",
+            "platform": "Nintendo DS"
+        },
+        "5": {
+            "game": "Mirror’s Edge Catalyst",
+            "platform": "Playstation 4"
+        }
+    }
+}
