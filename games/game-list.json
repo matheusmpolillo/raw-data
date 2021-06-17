@@ -69,7 +69,10 @@
         "Grand Theft Auto: Vice City",
         "Mortal Kombat: Armageddon",
         "Black",
-        "Call of Duty 3"
+        "Call of Duty 3",
+        "Dragon Ball Z: Budokai Tenkaichi 3",
+        "Crash of the Titans",
+        "Star Wars: Super Bombad Racing"
     ],
     "Playstation 3": [
         "God of War III",
@@ -135,10 +138,23 @@
     ],
     "PC": [
         "Harry Potter and The Chamber of Secrets",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Order of the Phoenix",
+        "Grand Theft Auto: Vice City",
+        "Grand Theft Auto: San Andreas",
+        "Counter-Strike 1.6",
+        "Counter-Strike: Global Offensive",
         "Undertale",
         "League of Legends",
+        "Valorant",
+        "SMITE",
         "Grand Chase",
         "Adventure Quest Worlds",
-        "Need for Speed: Underground 2"
+        "Habbo",
+        "Transformice",
+        "DDTank",
+        "Need for Speed: Underground 2",
+        "Adventure Quest Worlds",
+        "Oversoul"
     ]
 }
