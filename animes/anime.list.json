@@ -1,0 +1,82 @@
+{
+    "Shōnen": [
+        {
+            "name": "Dragon Ball",
+            "seasons": {
+                "Classic": 3,
+                "Z": 3,
+                "GT": 3,
+                "Super": 3
+            },
+            "movies": [
+                "Dragon Ball Z - O Retorno dos Andróides",
+                "Dragon Ball Z: O Combate Final",
+                "Dragon Ball Z: Gohan e Trunks, os Guerreiros do Futuro",
+                "Dragon Ball Z: O Ataque do Dragão",
+                "Dragon Ball Z: A Batalha nos Dois Mundos",
+                "O Renascimento da Fusão: Goku e Vegeta",
+                "Dragon Ball: Episódio de Bardock",
+                "Dragon Ball: Yo! Son Goku and His Friends Return!!",
+                "Dragon Ball Z: A Batalha dos Deuses",
+                "Dragon Ball Z: O Renascimento de Freeza",
+                "Dragon Ball Super: Broly"
+            ]
+        },
+        {
+            "name": "Yu Yu Hakusho",
+            "seasons": {
+                "Classic": 1
+            }
+        },
+        {
+            "name": "InuYasha",
+            "seasons": {
+                "Classic": 1
+            }
+        },
+        {
+            "name": "InuYasha",
+            "seasons": {
+                "Classic": 1
+            }
+        },
+        {
+            "name": "Boku no Hero Academia",
+            "seasons": {
+                "1": 3,
+                "2": 3,
+                "3": 3,
+                "4": 3,
+                "5": 2
+            }
+        },
+        {
+            "name": "One Punch Man",
+            "seasons": {
+                "1": 3,
+                "2": 1
+            }
+        },
+        {
+            "name": "Bleach",
+            "seasons": {
+                "1": 3,
+                "2": 3,
+                "3": 3,
+                "4": 1,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 0,
+                "10": 0,
+                "11": 0,
+                "12": 0,
+                "13": 0,
+                "14": 0,
+                "15": 0,
+                "16": 0
+            }
+        }
+    ]
+}
