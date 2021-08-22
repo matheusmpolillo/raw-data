@@ -1,0 +1,24 @@
+{
+    "motherboard": "Asus TUF Gaming B550M-Plus",
+    "ram": {
+        "1": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16,",
+        "2": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16,",
+        "3": null,
+        "4": null,
+        "total": "16gb"
+    },
+    "psu": "Corsair CV650 - 650W, 80 Plus Bronze",
+    "cpu": null,
+    "graphics_card": null,
+    "storage": {
+        "hd": null,
+        "ssd": null
+    },
+    "cabinet": null,
+    "peripherals": {
+        "monitor": null,
+        "keyboard": "Mancer Shade Rainbow",
+        "mouse": "Mancer Stinger Rainbow 4000DPI",
+        "headset": "HyperX Cloud Stinger"
+    }
+}
