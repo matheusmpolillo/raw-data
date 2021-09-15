@@ -31,6 +31,9 @@
         "Super Smash Bros.",
         "Doom 64"
     ],
+    "Nintendo Switch": [
+        "Super Smash Bros. Ultimate"
+    ],
     "Playstation 1": [
         "Yu-Gi-Oh! Forbidden Memories",
         "Resident Evil",
@@ -134,7 +137,8 @@
         "A Way Out",
         "Dungeon Defenders II",
         "Beat Saber",
-        "Mirror’s Edge Catalyst"
+        "Mirror’s Edge Catalyst",
+        "Ratchet & Clank"
     ],
     "PC": [
         "Harry Potter and The Chamber of Secrets",
