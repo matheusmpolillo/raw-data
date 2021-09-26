@@ -75,7 +75,8 @@
         "Call of Duty 3",
         "Dragon Ball Z: Budokai Tenkaichi 3",
         "Crash of the Titans",
-        "Star Wars: Super Bombad Racing"
+        "Star Wars: Super Bombad Racing",
+        "Saint Seiya: The Hades"
     ],
     "Playstation 3": [
         "God of War III",
@@ -138,7 +139,8 @@
         "Dungeon Defenders II",
         "Beat Saber",
         "Mirror’s Edge Catalyst",
-        "Ratchet & Clank"
+        "Ratchet & Clank",
+        "Naruto to Boruto: Shinobi Striker"
     ],
     "PC": [
         "Harry Potter and The Chamber of Secrets",
@@ -153,12 +155,13 @@
         "Valorant",
         "SMITE",
         "Grand Chase",
+        "Need for Speed: Underground 2"
+    ],
+    "Browser": [
         "Adventure Quest Worlds",
+        "Oversoul",
         "Habbo",
         "Transformice",
-        "DDTank",
-        "Need for Speed: Underground 2",
-        "Adventure Quest Worlds",
-        "Oversoul"
+        "DDTank"
     ]
 }
