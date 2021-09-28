@@ -155,7 +155,22 @@
         "Valorant",
         "SMITE",
         "Grand Chase",
-        "Need for Speed: Underground 2"
+        "Need for Speed: Underground 2",
+        "Hearthstone",
+        "World of Warcraft",
+        "Team Fortress 2",
+        "Warframe",
+        "Warface",
+        "Among Us",
+        "Brawlhalla",
+        "Path of Exile",
+        "Left 4 Dead 2",
+        "FreeStyle 2: Street Basketball",
+        "DC Universe Online",
+        "LIMBO",
+        "Robocraft",
+        "Minecraft",
+        "Loadout"
     ],
     "Browser": [
         "Adventure Quest Worlds",
@@ -163,5 +178,17 @@
         "Habbo",
         "Transformice",
         "DDTank"
+    ],
+    "Mobile": [
+        "Dragon Ball Z: Dokkan Battle",
+        "World Flipper",
+        "Tap Titans",
+        "Fallout Shelter",
+        "Pokémon GO",
+        "NBA Live",
+        "Spirit Stone",
+        "Legends of Runeterra",
+        "League of Legends: Wild Rift",
+        "Hearthstone"
     ]
 }
