@@ -11,8 +11,8 @@
     "cpu": "AMD Ryzen 7 5700G",
     "graphics_card": null,
     "storage": {
-        "hd": null,
-        "ssd": null
+        "hd": "Seagate BarraCuda, 2TB, 3.5, SATA",
+        "ssd": "Kingston NV1 500GB, M.2 2280 NVMe"
     },
     "cabinet": null,
     "peripherals": {
