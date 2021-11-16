@@ -1,8 +1,8 @@
 {
     "motherboard": "Asus TUF Gaming B550M-Plus",
     "ram": {
-        "1": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16,",
-        "2": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16,",
+        "1": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16",
+        "2": "XPG Spectrix D41 RGB - 8GB, 3000MHz, DDR4, CL16",
         "3": null,
         "4": null,
         "total": "16gb"
