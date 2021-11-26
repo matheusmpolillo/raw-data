@@ -9,7 +9,7 @@
     },
     "psu": "Corsair CV650 - 650W, 80 Plus Bronze",
     "cpu": "AMD Ryzen 7 5700G",
-    "graphics_card": null,
+    "gpu": "ASRock AMD Radeon RX 6600 XT Challenger D 8G OC, 8GB GDDR6",
     "storage": {
         "hd": "Seagate BarraCuda, 2TB, 3.5, SATA",
         "ssd": "Kingston NV1 500GB, M.2 2280 NVMe"
