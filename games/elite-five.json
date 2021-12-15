@@ -2,23 +2,28 @@
     "elite_five": {
         "1": {
             "name": "Harry Potter and The Chamber of Secrets",
-            "platform": "PC"
+            "platform": "PC",
+            "image": "https://www.mobygames.com/images/covers/l/352353-harry-potter-and-the-chamber-of-secrets-windows-front-cover.jpg"
         },
         "2": {
             "name": "The Last of Us Part II",
-            "platform": "Playstation 4"
+            "platform": "Playstation 4",
+            "image": "https://www.mobygames.com/images/covers/l/667906-the-last-of-us-part-ii-playstation-4-front-cover.jpg"
         },
         "3": {
             "name": "Undertale",
-            "platform": "PC"
+            "platform": "PC",
+            "image": "https://www.mobygames.com/images/covers/l/419964-undertale-playstation-4-front-cover.png"
         },
         "4": {
             "name": "Inazuma Eleven 3: Sekai e no Chousen!! (The Ogre)",
-            "platform": "Nintendo DS"
+            "platform": "Nintendo DS",
+            "image": "https://www.mobygames.com/images/covers/l/649651-inazuma-eleven-3-team-ogre-attacks-nintendo-3ds-front-cover.png"
         },
         "5": {
             "name": "Mirror’s Edge Catalyst",
-            "platform": "Playstation 4"
+            "platform": "Playstation 4",
+            "image": "https://www.mobygames.com/images/covers/l/368884-mirror-s-edge-catalyst-playstation-4-front-cover.jpg"
         }
     }
 }
